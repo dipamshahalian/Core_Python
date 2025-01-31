@@ -4,18 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54c4d07b-e6d4-4916-812c-052f75f930dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Core_Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Functions, lambda, Arguments, Return Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Lists,Tuples,Set_and_Dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/Variable_DataTypes_Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basics/if_else_&amp;_for_while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" />
+    <list default="true" id="54c4d07b-e6d4-4916-812c-052f75f930dc" name="Changes" comment="30/01 Work">
+      <change afterPath="$PROJECT_DIR$/Exception Handling/Custom Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exception Handling/Try_Except_Finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading and Multiprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Encapsulation_Abstraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Inheritance_Polymorphism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/class_objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Working with Files and Directories/File Sysytem Operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Working with Files and Directories/JSON and XML handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Working with Files and Directories/Read_Write_Files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Working with Files and Directories/demofile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Working with Files and Directories/demofile2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,21 +38,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dipamshahalian"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dipamshahalian&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dipamshahalian/Core_Python",
-    "accountId": "6618d8da-0095-410e-b15e-bb3c86f4554d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dipamshahalian/Core_Python&quot;,
+    &quot;accountId&quot;: &quot;6618d8da-0095-410e-b15e-bb3c86f4554d&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2sKlG5bzrNFy5q5x1pZzpyS0s4C" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -60,12 +61,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Custom Exception.executor": "Run",
+    "Python.Encapsulation_Abstraction.executor": "Run",
+    "Python.File Sysytem Operations.executor": "Run",
     "Python.Functions, lambda, Arguments, Return Types.executor": "Run",
+    "Python.Inheritance_Polymorphism.executor": "Run",
+    "Python.JSON and XML handling.executor": "Run",
     "Python.Lists,Tuples,Set_and_Dictionary.executor": "Run",
     "Python.Lists.executor": "Run",
+    "Python.Multithreading and Multiprocessing.executor": "Run",
+    "Python.Read_Write_Files.executor": "Run",
     "Python.Strings.executor": "Run",
+    "Python.Try_Except_Finally.executor": "Run",
     "Python.Variable_DataTypes_Operators.executor": "Run",
     "Python.again.executor": "Run",
+    "Python.class_objects.executor": "Run",
     "Python.if_else_&_for_while.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -90,6 +100,19 @@
       <option name="presentableId" value="Default" />
       <updated>1738212050054</updated>
     </task>
+    <task id="LOCAL-00001" summary="30/01 Work">
+      <option name="closed" value="true" />
+      <created>1738240056272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738240056272</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="30/01 Work" />
+    <option name="LAST_COMMIT_MESSAGE" value="30/01 Work" />
   </component>
 </project>
